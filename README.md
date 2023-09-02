@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&separator=%3C&lines=hi%3Ci%C2%B4m+guilherme%3Ci%C2%B4m+a+begginer+dev+student+at+UFRN%3Cwelcome+to+my+git+;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&separator=%3C&lines=hi%3Ci%C2%B4m+guilherme%3Ci%C2%B4m+a+begginer+dev+student+at+UFRN%3Cwelcome+to+my+git+;%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gui1hermeg&show_icons=true&count_private=true&hide_border=true&title_color=696969&icon_color=A9A9A9&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme github stats" /> 
